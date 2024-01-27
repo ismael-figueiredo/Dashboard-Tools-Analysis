@@ -13,7 +13,7 @@ load_dotenv()
 
 template = "united"
 url = os.environ.get("url")
-username = "tork\\biuser"
+username = os.environ.get("username")
 password = os.environ.get("password")
 config = (username, password)
 
