@@ -2,7 +2,7 @@
 # Dashboard para Monitoramento de Consumo de Insumos para Usinagem
 
 ## Descrição
-Este projeto é uma aplicação Python desenvolvida para monitorar o consumo de insumos na usinagem, utilizando dados da API do sistema CoroPlus® da Sandvik. A aplicação permite visualizar detalhadamente dados de consumo e custos com ferramentas, oferecendo insights valiosos para otimização de recursos e processos. Ainda há muitos dados e funcionalidades novas a serem implementadas. Vale lembrar que para funcionar deverá ter acesso as credenciais para a API do CoroPlus®.
+Este projeto é uma aplicação Python desenvolvida para monitorar o consumo de insumos na usinagem, utilizando dados da API do sistema CoroPlus® da Sandvik. A aplicação permite visualizar detalhadamente dados de consumo e custos com ferramentas, oferecendo insights valiosos para otimização de recursos e processos. Ainda há muitos dados e funcionalidades novas a serem implementadas. Vale lembrar que para funcionar deverá ter acesso as credenciais para a API do CoroPlus® Tool Supply.
  <p  align="center">
 
 <img  alt="Projeto Dashboard CoroPlus®"  src=".github/preview.jpg"  width="100%">
