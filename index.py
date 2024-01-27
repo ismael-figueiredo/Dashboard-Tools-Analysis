@@ -150,7 +150,7 @@ app.layout = dbc.Container(
                                                         dbc.Col(
                                                             [
                                                                 html.H3(
-                                                                    "Tools Analytics"
+                                                                    "Tools Analysis"
                                                                 )
                                                             ],
                                                             sm=12,
